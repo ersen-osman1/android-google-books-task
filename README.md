@@ -1,4 +1,4 @@
 # android-google-books-task
-A Android app that uses the Google Books API to search for books by author, name, ISBN and by passage or quote from the book 
+An Android app that uses the Google Books API to search for books by author, name, ISBN and by passage or quote from the book 
 
 Created By Ersen Osman
